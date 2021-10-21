@@ -17,5 +17,5 @@ httpc get -v 'http://httpbin.org/get?course=networking&assignment=1' </br>
 httpc post -h Content-Type:application/json --d '{"Assignment": 1}' http://httpbin.org/post </br>
 
 Infact you can remove the url given in the above commands and put your url to find the GET/POST responses. </br>
-
+Type ```stop``` to terminate the program. </br>
 This project was made in a team of 2(me and Neelofer Shama)
