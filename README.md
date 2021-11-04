@@ -1,4 +1,4 @@
-# Follow these steps to test httpc on a Docker container. 
+# Follow these steps to test the HTTP library on a Docker container. 
 
 Visit: https://labs.play-with-docker.com/ </br>
 Press 'Start' and 'Add new instance' (You'll need to login into Docker first.) </br>
